@@ -1,0 +1,49 @@
+body {
+  background-color: #efefef;
+}
+
+div {
+  width: 400px;
+  height: 550px;
+  background-color: white;
+  border-top: 40px groove red;
+  border-bottom: 40px groove red;
+  margin: 0 auto;
+  border-radius: 40px;
+  box-shadow: 0 0 10px #323232;
+}
+
+input {
+  width: 73px;
+  height: 60px;
+  margin: 2px;
+  border-radius: 6px;
+}
+
+.buttonCaluculation {
+  text-align: center;
+  width: 90%;
+  height: 45px;
+  border-radius: 6px;
+  margin-left: 14px;
+}
+
+.resultDisplay {
+  width: 95%;
+  height: 40px;
+  margin: 5px;
+}
+
+.button {
+  font-size: 2rem;
+  margin: 12px;
+  padding: 5px;
+}
+
+.buttonCaluculation {
+  font-size: 2rem;
+}
+
+.resultDisplay {
+  font-size: 2rem;
+}
